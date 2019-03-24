@@ -1,5 +1,5 @@
 <br>
-Starting a fork to conver Magic Cards in a magic elibrary
+Starting a fork to convert Magic Cards in a magic elibrary
 </br>
 <div align="center">
 <img src="/docs/images/logo.png" width="300px">
